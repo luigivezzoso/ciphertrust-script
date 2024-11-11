@@ -1,2 +1,2 @@
 # ciphertrust-script
-Collection of Thales CIpherTrust script
+Collection of Thales CipherTrust script
